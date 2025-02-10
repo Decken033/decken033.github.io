@@ -34,20 +34,20 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Huanyu Shi
-  email: huanyushi2001@gmail.com # change to your email address
+  name: Decken
+  email: 1076929257@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/huanyushi # change to your GitHub homepage
+    - https://github.com/Decken033    # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://www.zhihu.com/people/za-ran-zhu-fu-liu-xing
+#    - https://www.zhihu.com/people/za-ran-zhu-fu-liu-xing
 
 # Site Verification Settings
 webmaster_verifications:
-  google: google-site-verification=J-aXydM02O-L4PE2xTK9NQfmeeKUMfGGts3GkUnJ7rc # fill in your Google verification code
+  google: google-site-verification=iJwrkqeyFeCFSaNl61xBBULqBY1YrztB9iziVOWmuSU # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
