@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://huanyushi.github.io"
 
 github:
-  username: huanyushi # change to your GitHub username
+  username: Decken033 # change to your GitHub username
 
 # twitter:
 #   username:  # change to your Twitter username
@@ -96,14 +96,14 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://cdn.jsdelivr.net/gh/huanyushi/huanyushi.github.io@main"
+cdn: "https://cdn.jsdelivr.net/gh/Decken033/decken033.github.io/@main"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "assets/img/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: "https://cdn.jsdelivr.net/gh/huanyushi/huanyushi.github.io@main/assets/img/avatar.jpg" # string, local or CORS resources
+social_preview_image: "https://cdn.jsdelivr.net/gh/Decken033/decken033.github.io/@main/assets/img/avatar.jpg" # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -120,7 +120,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: huanyushi/huanyushi.github.io # <gh-username>/<repo>
+    repo: Decken033/decken033.github.io # <gh-username>/<repo>
     repo_id: R_kgDOLnc4kg
     category: Announcements
     category_id: DIC_kwDOLnc4ks4CeX5Y
