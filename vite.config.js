@@ -107,7 +107,7 @@ export default ({ mode }) =>
       preprocessorOptions: {
         scss: {
           charset: false,
-          additionalData: `@import "./src/style/global.scss";`,
+          additionalData: `@use "@/style/global.scss" as *;`, // 适配 @use 语法
         },
       },
     },
