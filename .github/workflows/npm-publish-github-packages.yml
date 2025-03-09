@@ -27,7 +27,7 @@ jobs:
         uses: actions/configure-pages@v3
 
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3  # 🔄 更新到 v3 版本
         with:
           path: dist/
 
