@@ -3,8 +3,9 @@ import './VisitorStats.scss';
 
 const VisitorStats = ({ language = 'en' }) => {
     const [translations, setTranslations] = useState(null);
-    const [pageViews, setPageViews] = useState('..1');
-    const [uniqueVisitors, setUniqueVisitors] = useState('..2');
+    const [pageViews, setPageViews] = useState('...');
+    const [uniqueVisitors, setUniqueVisitors] = useState('...');
+    const [dataFetched, setDataFetched] = useState(false);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
@@ -27,21 +28,63 @@ const VisitorStats = ({ language = 'en' }) => {
         const script = document.createElement('script');
         script.src = '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
         script.async = true;
-        document.body.appendChild(script);
 
-        script.onload = () => {
-            // 不蒜子加载完成后，通过全局变量获取数据
-            const checkStats = setInterval(() => {
-                if (window.busuanzi) {
-                    setPageViews(document.getElementById('busuanzi_value_site_pv')?.innerText || '...');
-                    setUniqueVisitors(document.getElementById('busuanzi_value_site_uv')?.innerText || '...');
-                    clearInterval(checkStats);
-                }
-            }, 500);
+        let checkStats;
+        let timeoutId;
+
+        script.onerror = () => {
+            console.error('不蒜子脚本加载失败');
+            setPageViews('不可用');
+            setUniqueVisitors('不可用');
+            setDataFetched(true);
+            // 清除可能设置的定时器
+            if (checkStats) clearInterval(checkStats);
+            if (timeoutId) clearTimeout(timeoutId);
         };
 
+        script.onload = () => {
+            console.log('不蒜子脚本加载完成');
+
+            checkStats = setInterval(() => {
+                const pv = document.getElementById('busuanzi_value_site_pv')?.innerText;
+                const uv = document.getElementById('busuanzi_value_site_uv')?.innerText;
+
+                // 只在两个值都存在且非空时更新
+                if (pv && uv && pv !== '' && uv !== '') {
+                    console.log('检查数据:', { pv, uv });
+                    setPageViews(pv);
+                    setUniqueVisitors(uv);
+                    setDataFetched(true);
+                    console.log('数据更新成功:', { pv, uv });
+
+                    // 成功获取数据后清除定时器和超时
+                    clearInterval(checkStats);
+                    if (timeoutId) clearTimeout(timeoutId);
+                }
+            }, 500);
+
+            // 设置超时处理
+            timeoutId = setTimeout(() => {
+                // 检查当前的dataFetched状态，而不是闭包中的值
+                if (!dataFetched) {
+                    console.log('超时，未获取到数据');
+                    setPageViews('不可用');
+                    setUniqueVisitors('不可用');
+                    setDataFetched(true);
+                    if (checkStats) clearInterval(checkStats);
+                }
+            }, 5000);
+        };
+
+        document.body.appendChild(script);
+
         return () => {
-            document.body.removeChild(script);
+            // 清理函数
+            if (script && script.parentNode) {
+                document.body.removeChild(script);
+            }
+            if (checkStats) clearInterval(checkStats);
+            if (timeoutId) clearTimeout(timeoutId);
         };
     }, []);
 
@@ -61,7 +104,6 @@ const VisitorStats = ({ language = 'en' }) => {
             <span className="value">{pageViews}</span>
             <span className="label">| {t.uniqueVisitors}: </span>
             <span className="value">{uniqueVisitors}</span>
-            {/* 不蒜子需要的隐藏元素 */}
             <span id="busuanzi_container_site_pv" style={{ display: 'none' }}>
                 <span id="busuanzi_value_site_pv"></span>
             </span>
