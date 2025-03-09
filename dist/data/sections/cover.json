@@ -1,0 +1,468 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Decken!**"
+        },
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Decken!**"
+        },
+        "fr": {
+            "title": "Salut !",
+            "title_menu": "À propos",
+            "title_long_prefix": "Salut...",
+            "title_long": "Je suis **Decken!**"
+        },
+        "ko": {
+            "title": "환영합니다!",
+            "title_menu": "소개",
+            "title_long_prefix": "안녕하세요...",
+            "title_long": "저는 **Decken** 입니다!"
+        },
+        "zh": {
+            "title": "欢迎！",
+            "title_menu": "关于我",
+            "title_long_prefix": "你好...",
+            "title_long": "我是**Decken！**"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {},
+                "zh": {}
+            },
+            "items": [
+                {
+                    "value": "Los Angeles, CA",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "1076929257@qq.com",
+                    "links": [
+                        {"href": "mailto:1076929257@qq.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@Decken033",
+                    "links": [
+                        {"href": "https://github.com/Decken033?tab=repositories"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "es": {"title": "**Un poco** sobre mí..."},
+                "fr": {"title": "**Un peu** à propos de moi..."},
+                "ko": {"title": "저에 **대해 조금**..."},
+                "zh": {"title": "**关于我**的一点..." }
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "text": "<p>I am a computer science undergraduate proficient in <b>C++, Java, and Python</b>, with extensive experience in multi-project development, as well as familiarity with both frontend and backend web development and database management.</p><p>This diverse background allows me to flexibly adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b></p>"
+                        },
+                        "es": {
+                            "text": "<p>Soy un estudiante universitario de ciencias de la computación, competente en <b>C++, Java y Python</b>, con amplia experiencia en desarrollo de múltiples proyectos, además de familiaridad con el desarrollo web frontend y backend y la gestión de bases de datos.</p><p>Este historial diverso me permite adaptarme con flexibilidad a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"
+                        },
+                        "fr": {
+                            "text": "<p>Je suis un étudiant en informatique compétent en <b>C++, Java et Python</b>, avec une vaste expérience dans le développement de multiples projets, ainsi qu’une familiarité avec le développement web frontend et backend et la gestion de bases de données.</p><p>Ce parcours diversifié me permet de m’adapter avec souplesse à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"
+                        },
+                        "ko": {
+                            "text": "<p>저는 컴퓨터 공학 전공 학부생으로, <b>C++, Java, Python</b>에 능숙하며, 다수의 프로젝트 개발 경험이 풍부하고, 프론트엔드 및 백엔드 웹 개발과 데이터베이스 관리에도 익숙합니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"
+                        },
+                        "zh": {
+                            "text": "<p>我是一名计算机专业本科生，擅长<b>C++、Java和Python</b>，并具备丰富的多项目开发经验，同时熟悉前后端网页开发和数据库管理。</p><p>这种多元化的背景让我能够灵活适应各种项目需求。</p><p>我期待与<b>您合作！</b></p>"
+                        }
+                    }
+
+
+                }
+            ]
+        },
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"},
+                "es": {"title": "Testimonios de **clientes**"},
+                "fr": {"title": "Témoignages de **clients**"},
+                "ko": {"title": "**고객** 추천사"},
+                "zh": {"title": "客户**评价**"}
+            },
+            "items": [
+                {
+                    "value": "Anita Bath",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-1.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CEO at <b>SalesForce</b>",
+                            "text": "Working with Decken was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                        },
+                        "es": {
+                            "info": "CEO en <b>SalesForce</b>",
+                            "text": "Trabajar con Decken fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                        },
+                        "fr": {
+                            "info": "PDG de <b>SalesForce</b>",
+                            "text": "Travailler avec Decken a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
+                        },
+                        "ko": {
+                            "info": "세일즈포스  CEO",
+                            "text": "Decken와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                        },
+                        "zh": {
+                            "info": "<b>SalesForce</b>首席执行官",
+                            "text": "与Decken合作是一次变革性的体验。他的编程技能和奉献精神不仅提升了我们的项目，还激励了整个团队。"
+                        }
+                    }
+                },
+                {
+                    "value": "Lou Natic",
+                    "links": [
+                        {"href": "https://github.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Lead Developer at <b>GitHub</b>",
+                            "text": "Having Decken on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                        },
+                        "es": {
+                            "info": "Desarrollador Principal en <b>GitHub </b>",
+                            "text": "Tener a Decken en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
+                        },
+                        "fr": {
+                            "info": "Développeur Principal chez <b>GitHub </b>",
+                            "text": "Avoir Decken dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
+                        },
+                        "ko": {
+                            "info": "<b>GitHub</b> 수석 개발자",
+                            "text": "우리 팀에 Decken가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
+                        },
+                        "zh": {
+                            "info": "<b>GitHub</b>首席开发者",
+                            "text": "团队中有Decken是一个宝贵的财富。他深厚的编程洞察力和指导不仅提升了我们的项目，还赋予我们在面对每个挑战时充满信心和创造力。"
+                        }
+                    }
+                },
+                {
+                    "value": "Paige Turner",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-2.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Managing Director at <b>Dingga</b>",
+                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                        },
+                        "es": {
+                            "info": "Directora General en <b>Dingga</b>",
+                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
+                        },
+                        "fr": {
+                            "info": "Directrice Générale chez <b>Dingga</b>",
+                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
+                        },
+                        "ko": {
+                            "info": "딩가 전무이사",
+                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
+                        },
+                        "zh": {
+                            "info": "<b>Dingga</b>董事总经理",
+                            "text": "与Mark合作彻底改变了我们的开发流程。他的专业知识和解决问题的能力对我们的成功至关重要。"
+                        }
+                    }
+                },
+                {
+                    "value": "Chris P. Bacon",
+                    "links": [
+                        {"href": "https://dribbble.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-4.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Creative Director at <b>Dribbble</b>",
+                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+                        },
+                        "es": {
+                            "info": "Directora Creativa en <b>Dribbble</b>",
+                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
+                        },
+                        "fr": {
+                            "info": "Directrice Créative chez <b>Dribbble</b>",
+                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
+                        },
+                        "ko": {
+                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
+                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                        },
+                        "zh": {
+                            "info": "<b>Dribbble</b>创意总监",
+                            "text": "Mark对细节的关注和创新思维为我们的设计流程带来了全新的视角。他真正提升了我们团队的工作，并帮助我们取得了超出预期的成果。"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "es": {"title": "Intereses **personales**"},
+                "fr": {"title": "Intérêts **personnels** "},
+                "ko": {"title": "개인 **관심사**"},
+                "zh": {"title": "个人**兴趣**"}
+            },
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-guitar",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing guitar",
+                            "info": "Exploring different genres and improving my skills."
+                        },
+                        "es": {
+                            "title": "Tocar la guitarra",
+                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
+                        },
+                        "fr": {
+                            "title": "Jouer de la guitare",
+                            "info": "Explorer différents genres et améliorer mes compétences."
+                        },
+                        "ko": {
+                            "title": "기타 연주",
+                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        },
+                        "zh": {
+                            "title": "弹吉他",
+                            "info": "探索不同音乐类型并提升我的技能。"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI video editing",
+                            "info": "Learning to use AI tools to enhance my videos."
+                        },
+                        "es": {
+                            "title": "Edición de video con IA",
+                            "info": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                        },
+                        "fr": {
+                            "title": "Montage vidéo avec IA",
+                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                        },
+                        "ko": {
+                            "title": "AI 영상 편집",
+                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                        },
+                        "zh": {
+                            "title": "AI视频编辑",
+                            "info": "学习使用AI工具提升我的视频质量。"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-paint-brush",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Illustration",
+                            "info": "Practicing digital art and exploring new styles."
+                        },
+                        "es": {
+                            "title": "Ilustración",
+                            "info": "Practicando arte digital y explorando nuevos estilos."
+                        },
+                        "fr": {
+                            "title": "Illustration",
+                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                        },
+                        "ko": {
+                            "title": "일러스트레이션",
+                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        },
+                        "zh": {
+                            "title": "插图设计",
+                            "info": "练习数字艺术并探索新风格。"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Investing",
+                            "info": "Learning the basics of stocks and personal finance."
+                        },
+                        "es": {
+                            "title": "Invertir",
+                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                        },
+                        "fr": {
+                            "title": "Investir",
+                            "info": "Apprendre les bases des actions et des finances personnelles."
+                        },
+                        "ko": {
+                            "title": "투자",
+                            "info": "주식과 개인 재정의 기초 배우기."
+                        },
+                        "zh": {
+                            "title": "投资",
+                            "info": "学习股票和个人理财的基础知识。"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        },
+                        "es": {
+                            "title": "Diseño UX",
+                            "info": "Estudiando los principios de la experiencia del usuario."
+                        },
+                        "fr": {
+                            "title": "Conception UX",
+                            "info": "Étudier les principes de l'expérience utilisateur."
+                        },
+                        "ko": {
+                            "title": "UX 디자인",
+                            "info": "사용자 경험 원칙을 공부하기."
+                        },
+                        "zh": {
+                            "title": "用户体验设计",
+                            "info": "研究用户体验原则。"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        },
+                        "es": {
+                            "title": "Edición de fotos",
+                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                        },
+                        "fr": {
+                            "title": "Retouche photo",
+                            "info": "Améliorer des photos avec des techniques de montage créatives."
+                        },
+                        "ko": {
+                            "title": "사진 편집",
+                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        },
+                        "zh": {
+                            "title": "照片编辑",
+                            "info": "通过创意编辑技术提升照片效果。"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

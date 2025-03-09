@@ -1,0 +1,168 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+        "es": {
+            "title": "Contacto",
+            "title_long_prefix": "No dudes en",
+            "title_long": "**Contácta**me"
+        },
+        "fr": {
+            "title": "Contact",
+            "title_long_prefix": "N'hésitez pas à",
+            "title_long": "Me **Contacter**"
+        },
+        "ko": {
+            "title": "연락처",
+            "title_long_prefix": "주저하지 말고",
+            "title_long": "**연락** 주세요"
+        },
+        "zh": {
+            "title": "联系",
+            "title_long_prefix": "请随时",
+            "title_long": "**联系**我"
+        }
+    },
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": { "title": "Send me a **message**" },
+                "es": { "title": "Envíame un **mensaje**" },
+                "fr": { "title": "Envoyez-moi un **message**" },
+                "ko": { "title": "**메시지를** 보내주세요" },
+                "zh": { "title": "给我发送**消息**" }
+            },
+            "items": null
+        },
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": { "title": "Or if you **prefer**..." },
+                "es": { "title": "O si **prefieres**..." },
+                "fr": { "title": "Ou si vous **préférez**..." },
+                "ko": { "title": "또는 **원하시면**..." },
+                "zh": { "title": "或者如果您**更喜欢**..." }
+            },
+            "items": [
+                {
+                    "value": "+1 111111111",
+                    "links": [
+                        { "href": "tel:11234567890" }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "locales": {
+                        "en": { "title": "Phone" },
+                        "es": { "title": "Teléfono" },
+                        "fr": { "title": "Téléphone" },
+                        "ko": { "title": "전화" },
+                        "zh": { "title": "电话" }
+                    }
+                },
+                {
+                    "value": "1076929257@qq.com",
+                    "links": [
+                        { "href": "mailto:1076929257@qq.com" }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "locales": {
+                        "en": { "title": "E-mail" },
+                        "ko": { "title": "이메일" },
+                        "es": { "title": "Correo electrónico" },
+                        "fr": { "title": "Courriel" },
+                        "zh": { "title": "电子邮件" }
+                    }
+                },
+                {
+                    "value": "@Decken",
+                    "links": [
+                        { "href": "https://linkedin.com" }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "locales": {
+                        "en": { "title": "Linkedin" },
+                        "es": { "title": "LinkedIn" },
+                        "fr": { "title": "LinkedIn" },
+                        "ko": { "title": "링크드인" },
+                        "zh": { "title": "领英" }
+                    }
+                },
+                {
+                    "value": "Decken",
+                    "links": [
+                        { "href": "https://facebook.com" }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-facebook",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "locales": {
+                        "en": { "title": "Facebook" },
+                        "es": { "title": "Facebook" },
+                        "fr": { "title": "Facebook" },
+                        "ko": { "title": "페이스북" },
+                        "zh": { "title": "脸书" }
+                    }
+                },
+                {
+                    "value": "@Decken",
+                    "links": [
+                        { "href": "https://instagram.com" }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-instagram",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "locales": {
+                        "en": { "title": "Instagram" },
+                        "es": { "title": "Instagram" },
+                        "fr": { "title": "Instagram" },
+                        "ko": { "title": "인스타그램" },
+                        "zh": { "title": "Instagram" }
+                    }
+                },
+                {
+                    "value": "@Decken",
+                    "links": [
+                        { "href": "https://tiktok.com" }
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-tiktok",
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "locales": {
+                        "en": { "title": "TikTok" },
+                        "es": { "title": "TikTok" },
+                        "fr": { "title": "TikTok" },
+                        "ko": { "title": "틱톡" },
+                        "zh": { "title": "抖音" }
+                    }
+                }
+            ]
+        }
+    ]
+}
