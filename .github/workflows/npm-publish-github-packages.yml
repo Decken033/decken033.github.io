@@ -16,12 +16,19 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20' # 使用本地版本
+          node-version: '20'
       - name: Install Dependencies
         run: npm install
       - name: Build Project
         run: npm run build
-      - id: build-publish
-        uses: bitovi/github-actions-react-to-github-pages@v1.2.4
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+
