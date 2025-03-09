@@ -1,0 +1,20 @@
+.visitorStats {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.label {
+  color: #ccc;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.value {
+  color: #00ccff;
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=VisitorStats.css.map */

@@ -1,0 +1,18 @@
+.visitorStats {
+  color: #fff;        // 保持白色作为默认
+  display: flex;      // 使用 flex 布局
+  justify-content: center; // 水平居中
+  align-items: center; // 垂直居中
+  padding: 10px;
+}
+
+.label {
+  color: #ccc;        // 浅灰色，用于“访问量:”和“| 访客数:”
+  margin-left: 10px;  // 左边距保持间距
+  margin-right: 5px;  // 调整右边距，避免过于拥挤
+}
+
+.value {
+  color: #00ccff;     // 亮蓝色，用于数字，突出显示
+  margin-right: 10px; // 右边距保持间距
+}

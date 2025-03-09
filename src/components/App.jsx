@@ -22,6 +22,9 @@ import Notifications from "/src/components/feedbacks/Notifications.jsx"
 import ConfirmationWindow from "/src/components/modals/ConfirmationWindow.jsx"
 // 导入自定义的反馈提供者钩子，用于管理反馈状态
 import {useFeedbacks} from "/src/providers/FeedbacksProvider.jsx"
+// 导入 VisitorStats 组件，用于显示访问统计
+import VisitorStats from '/src/components/VisitorStats'
+
 
 // 主应用组件
 function App() {
@@ -39,8 +42,11 @@ function App() {
             <AppFeedbacks/>
             {/* 缓存图片组件，传入图片 URL 列表 */}
             <ImageCache urls={imageList}/>
+            {/* 添加访问统计组件 */}
+            <VisitorStats />
             {/* 作品集组件 */}
             <Portfolio/>
+
         </div>
     )
 }

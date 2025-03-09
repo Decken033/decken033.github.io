@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "pageViews": "访问量",
+    "uniqueVisitors": "访客数",
+    "loading": "..."
+  },
+  "en": {
+    "pageViews": "Page Views",
+    "uniqueVisitors": "Unique Visitors",
+    "loading": "..."
+  },
+  "es": {
+    "pageViews": "Vistas de página",
+    "uniqueVisitors": "Visitantes únicos",
+    "loading": "..."
+  },
+  "fr": {
+    "pageViews": "Vues de page",
+    "uniqueVisitors": "Visiteurs uniques",
+    "loading": "..."
+  },
+  "ko": {
+    "pageViews": "페이지 조회수",
+    "uniqueVisitors": "고유 방문자 수",
+    "loading": "..."
+  }
+}
