@@ -3,8 +3,8 @@ import './VisitorStats.scss';
 
 const VisitorStats = ({ language = 'en' }) => {
     const [translations, setTranslations] = useState(null);
-    const [pageViews, setPageViews] = useState('...');
-    const [uniqueVisitors, setUniqueVisitors] = useState('...');
+    const [pageViews, setPageViews] = useState('..1');
+    const [uniqueVisitors, setUniqueVisitors] = useState('..2');
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
