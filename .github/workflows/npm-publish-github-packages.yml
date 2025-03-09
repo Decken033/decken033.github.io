@@ -3,10 +3,12 @@ on:
   push:
     branches:
       - main
+
 permissions:
   contents: read
   pages: write
   id-token: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -14,22 +16,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Use Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
       - name: Install dependencies
         run: npm install
 
       - name: Build project
         run: npm run build
 
-      - name: List build contents
-        run: ls -R ./dist
+      - name: Debug build output
+        run: |
+          echo "Checking dist directory..."
+          ls -lah ./dist || echo "❌ dist directory not found"
+          echo "Checking artifact contents..."
+          find ./dist || echo "❌ No files found in dist"
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
 
       - name: Upload Artifact
-        uses: actions/upload-pages-artifact@v3  # 🔄 更新到 v3 版本
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/
+          path: ./dist  # 确保路径正确
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v2
+        with:
+          artifact_name: github-pages  # 确保 artifact 名称匹配
