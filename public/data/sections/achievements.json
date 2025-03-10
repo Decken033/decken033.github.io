@@ -192,143 +192,407 @@
             "items": [
                 {
                     "dates": {
-                        "start": "09/01/2019",
+                        "start": "11/20/2022",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "**Best Final Year Project** – Backend Optimization",
-                            "info": "MIT",
-                            "text": "Recognized for innovative work on optimizing backend systems for cloud environments, achieving significant performance improvements."
+                            "title": "**Structural Innovation** – Second Prize",
+                            "info": "School of Civil Engineering",
+                            "text": "Constructed a multi-story house model using wooden materials, designed to support a specified number of iron blocks and to maximally resist damage during earthquake simulation tests."
                         },
                         "es": {
-                            "title": "**Mejor Proyecto de Fin de Carrera** – Optimización de Backend",
-                            "info": "MIT",
-                            "text": "Reconocido por su trabajo innovador en la optimización de sistemas backend para entornos en la nube, logrando importantes mejoras en el rendimiento."
+                            "title": "**Innovación Estructural** – Segundo Premio",
+                            "info": "Escuela de Ingeniería Civil",
+                            "text": "Construyó un modelo de casa de varios pisos utilizando materiales de madera, diseñado para soportar un número especificado de bloques de hierro y resistir al máximo los daños durante las pruebas de simulación de terremotos."
                         },
                         "fr": {
-                            "title": "**Meilleur Projet de Fin d'Études** – Optimisation du Backend",
-                            "info": "MIT",
-                            "text": "Reconnu pour son travail innovant sur l'optimisation des systèmes backend pour les environnements cloud, avec des améliorations significatives des performances."
+                            "title": "**Innovation Structurelle** – Deuxième Prix",
+                            "info": "École de Génie Civil",
+                            "text": "A construit un modèle de maison à plusieurs étages en utilisant des matériaux en bois, conçu pour supporter un nombre spécifié de blocs de fer et pour résister au maximum aux dommages lors des tests de simulation de tremblement de terre."
                         },
                         "ko": {
-                            "title": "**최우수 졸업 프로젝트** – 백엔드 최적화",
-                            "info": "MIT",
-                            "text": "클라우드 환경에서 백엔드 시스템을 최적화한 혁신적인 작업으로 성능을 크게 개선한 것으로 인정받았습니다."
+                            "title": "**구조 혁신** – 2등상",
+                            "info": "토목공학부",
+                            "text": "목재를 사용하여 다층 주택 모델을 제작하였으며, 이 모델은 지정된 수의 철 블록을 지탱하고 지진 시뮬레이션 테스트에서 손상을 최대한 견딜 수 있도록 설계되었습니다."
                         },
                         "zh": {
-                            "title": "**最佳毕业项目** – 后端优化",
-                            "info": "MIT",
-                            "text": "因在云环境中优化后端系统的创新工作而受到表彰，显著提升了系统性能。"
+                            "title": "**结构创新** – 二等奖",
+                            "info": "土木工程学院",
+                            "text": "使用木制材料制作多层房屋模型，模型要求承载一定数量的铁块的同时，最大程度地经受地震台加载的破坏"
                         }
                     }
+
+
                 },
                 {
                     "dates": {
-                        "start": "05/01/2020",
+                        "start": "11/05/2022",
                         "end": null
                     },
                     "links": [
-                        { "string": "more_info", "href": "https://github.com/torvalds/linux" }
+                        { "string": "more_info", "href": "" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Top Contributor** – Open Source Backend Project",
-                            "info": "GitHub",
-                            "text": "Awarded for contributing to an open-source backend framework that improved scalability and reduced latency."
+                            "title": "**Freshman Cup Badminton** – Third Place",
+                            "info": "Department of Physical Education, Southeast University",
+                            "text": "Third place in the Freshman Cup Men's Singles Badminton."
                         },
                         "es": {
-                            "title": "**Contribuidor Destacado** – Proyecto de Backend de Código Abierto",
-                            "info": "GitHub",
-                            "text": "Premiado por su contribución a un framework de backend de código abierto que mejoró la escalabilidad y redujo la latencia."
+                            "title": "**Copa de Novatos de Bádminton** – Tercer Lugar",
+                            "info": "Departamento de Educación Física, Universidad del Sureste",
+                            "text": "Tercer lugar en el individual masculino de la Copa de Novatos de Bádminton."
                         },
                         "fr": {
-                            "title": "**Meilleur Contributeur** – Projet Backend Open Source",
-                            "info": "GitHub",
-                            "text": "Récompensé pour sa contribution à un cadre backend open source qui a amélioré l'évolutivité et réduit la latence."
+                            "title": "**Coupe des Nouveaux Arrivants de Badminton** – Troisième Place",
+                            "info": "Département d'Éducation Physique, Université du Sud-Est",
+                            "text": "Troisième place dans le simple messieurs de la Coupe des Nouveaux Arrivants de Badminton."
                         },
                         "ko": {
-                            "title": "**최우수 기여자** – 오픈 소스 백엔드 프로젝트",
-                            "info": "GitHub",
-                            "text": "확장성을 개선하고 지연 시간을 줄인 오픈 소스 백엔드 프레임워크에 기여한 공로로 수상했습니다."
+                            "title": "**신입생 컵 배드민턴** – 3위",
+                            "info": "동남대학교 체육학과",
+                            "text": "신입생 컵 남자 단식 배드민턴 3위."
                         },
                         "zh": {
-                            "title": "**最佳贡献者** – 开源后端项目",
-                            "info": "GitHub",
-                            "text": "因对开源后端框架的贡献而获奖，该框架提升了可扩展性并减少了延迟。"
+                            "title": "**羽毛球新生杯** – 季军",
+                            "info": "东南大学体育系",
+                            "text": "新生杯羽毛球男子单打第三名。"
                         }
                     }
+
                 },
                 {
                     "dates": {
-                        "start": "11/01/2021",
+                        "start": "05/20/2023",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "**1st Place** – Global API Design Challenge",
-                            "info": "API Developer Conference",
-                            "text": "Secured 1st place for developing a robust API with advanced features like real-time data processing and seamless integration."
+                            "title": "**Outstanding Volunteer** – National College Student Energy-Saving and Emission-Reduction Social Practice and Technology Competition",
+                            "info": "Volunteer Activity",
+                            "text": "Awarded the title of Outstanding Volunteer for exceptional performance as a volunteer in the National College Student Energy-Saving and Emission-Reduction Social Practice and Technology Competition."
                         },
                         "es": {
-                            "title": "**1er Lugar** – Desafío Global de Diseño de API",
-                            "info": "Conferencia de Desarrolladores de API",
-                            "text": "Obtuvo el 1er lugar por desarrollar una API robusta con funciones avanzadas como procesamiento de datos en tiempo real e integración sin problemas."
+                            "title": "**Voluntario Destacado** – Competencia Nacional de Práctica Social y Tecnología para el Ahorro de Energía y Reducción de Emisiones de Estudiantes Universitarios",
+                            "info": "Actividad de Voluntariado",
+                            "text": "Galardonado con el título de Voluntario Destacado por su desempeño excepcional como voluntario en la Competencia Nacional de Práctica Social y Tecnología para el Ahorro de Energía y Reducción de Emisiones de Estudiantes Universitarios."
                         },
                         "fr": {
-                            "title": "**1ère Place** – Défi Mondial de Conception d'API",
-                            "info": "Conférence des Développeurs d'API",
-                            "text": "A remporté la 1ère place pour avoir développé une API robuste avec des fonctionnalités avancées comme le traitement des données en temps réel et l'intégration transparente."
+                            "title": "**Bénévole Exceptionnel** – Compétition Nationale de Pratique Sociale et Technologique pour l'Économie d'Énergie et la Réduction des Émissions des Étudiants Universitaires",
+                            "info": "Activité de Bénévolat",
+                            "text": "Décerné le titre de Bénévole Exceptionnel pour sa performance exceptionnelle en tant que bénévole dans la Compétition Nationale de Pratique Sociale et Technologique pour l'Économie d'Énergie et la Réduction des Émissions des Étudiants Universitaires."
                         },
                         "ko": {
-                            "title": "**1위** – 글로벌 API 디자인 챌린지",
-                            "info": "API 개발자 컨퍼런스",
-                            "text": "실시간 데이터 처리 및 원활한 통합과 같은 고급 기능을 갖춘 강력한 API를 개발하여 1위를 차지했습니다."
+                            "title": "**우수 자원봉사자** – 전국 대학생 에너지 절약 및 배출 감소 사회 실천 및 기술 경진대회",
+                            "info": "자원봉사 활동",
+                            "text": "전국 대학생 에너지 절약 및 배출 감소 사회 실천 및 기술 경진대회에서 자원봉사자로서 뛰어난 활약을 펼쳐 우수 자원봉사자 칭호를 수여받았습니다."
                         },
                         "zh": {
-                            "title": "**第一名** – 全球API设计挑战赛",
-                            "info": "API开发者大会",
-                            "text": "因开发具有实时数据处理和无缝集成等高级功能的强大API而获得第一名。"
+                            "title": "**优秀志愿者** – 全国大学生节能减排社会实践与科技竞赛",
+                            "info": "志愿活动",
+                            "text": "在全国大学生节能减排社会实践与科技竞赛中，作为志愿者表现出色，荣获优秀志愿者称号。"
                         }
                     }
+
                 },
                 {
                     "dates": {
-                        "start": "06/01/2023",
+                        "start": "08/15/2023",
                         "end": null
                     },
                     "links": [
-                        { "string": "more_info", "href": "https://google.com" }
+                        { "string": "more_info", "href": "" }
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Best Backend Architecture** – Tech Innovator Awards",
-                            "info": "Tech Innovator Magazine",
-                            "text": "Recognized for designing an efficient and scalable backend architecture that improved system performance and reliability."
+                            "title": "**Outstanding Volunteer** – School of Cybersecurity Student Union",
+                            "info": "Recognition by the School Student Union",
+                            "text": "Responsible for managing the WeChat public account of the School of Cybersecurity, including content creation and layout design."
                         },
                         "es": {
-                            "title": "**Mejor Arquitectura de Backend** – Premios a los Innovadores Tecnológicos",
-                            "info": "Revista Tech Innovator",
-                            "text": "Reconocido por diseñar una arquitectura de backend eficiente y escalable que mejoró el rendimiento y la confiabilidad del sistema."
+                            "title": "**Voluntario Destacado** – Unión Estudiantil de la Escuela de Ciberseguridad",
+                            "info": "Reconocimiento por la Unión Estudiantil de la Escuela",
+                            "text": "Encargado de la gestión del cuenta oficial de WeChat de la Escuela de Ciberseguridad, incluyendo la creación de contenido y el diseño de la presentación."
                         },
                         "fr": {
-                            "title": "**Meilleure Architecture Backend** – Prix de l'Innovateur Technologique",
-                            "info": "Magazine Tech Innovator",
-                            "text": "Reconnu pour avoir conçu une architecture backend efficace et évolutive qui a amélioré les performances et la fiabilité du système."
+                            "title": "**Bénévole Exceptionnel** – Syndicat Étudiant de l'École de Cybersécurité",
+                            "info": "Reconnaissance par le Syndicat Étudiant de l'École",
+                            "text": "Responsable de la gestion du compte public WeChat de l'École de Cybersécurité, y compris la création de contenu et la conception de la mise en page."
                         },
                         "ko": {
-                            "title": "**최우수 백엔드 아키텍처** – 기술 혁신자 어워드",
-                            "info": "Tech Innovator 매거진",
-                            "text": "시스템 성능과 안정성을 개선한 효율적이고 확장 가능한 백엔드 아키텍처 설계로 인정받았습니다."
+                            "title": "**우수 자원봉사자** – 사이버 보안 대학 학생회",
+                            "info": "대학 학생회 표창",
+                            "text": "사이버 보안 대학의 위챗 공식 계정 관리, 콘텐츠 작성 및 레이아웃 디자인을 담당했습니다."
                         },
                         "zh": {
-                            "title": "**最佳后端架构** – 技术创新者奖",
-                            "info": "Tech Innovator杂志",
-                            "text": "因设计高效且可扩展的后端架构而受到表彰，该架构提升了系统性能和可靠性。"
+                            "title": "**优秀志愿者** – 网络空间安全学院学生会",
+                            "info": "院学生会表彰",
+                            "text": "负责网络空间安全学院微信公众号推送，排版等"
                         }
                     }
+
+                },
+                {
+                    "dates": {
+                        "start": "09/20/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Officer** – University Student Union Publicity and New Media Department",
+                            "info": "Recognition by the University Student Union",
+                            "text": "Responsible for the operation of Southeast University's WeChat public account and Douyin (TikTok) accounts."
+                        },
+                        "es": {
+                            "title": "**Oficial** – Departamento de Publicidad y Nuevos Medios del Sindicato Estudiantil Universitario",
+                            "info": "Reconocimiento por el Sindicato Estudiantil Universitario",
+                            "text": "Encargado de la operación de la cuenta pública de WeChat y las cuentas de Douyin (TikTok) de la Universidad del Sureste."
+                        },
+                        "fr": {
+                            "title": "**Officier** – Département de Publicité et des Nouveaux Médias du Syndicat Étudiant Universitaire",
+                            "info": "Reconnaissance par le Syndicat Étudiant Universitaire",
+                            "text": "Responsable de l'opération du compte public WeChat et des comptes Douyin (TikTok) de l'Université du Sud-Est."
+                        },
+                        "ko": {
+                            "title": "**간사** – 대학 학생회 홍보 신미디어 부서",
+                            "info": "대학 학생회 표창",
+                            "text": "동남대학교의 위챗 공식 계정 및 Douyin (TikTok) 계정 운영을 담당했습니다."
+                        },
+                        "zh": {
+                            "title": "**干事** – 校学生会宣新部",
+                            "info": "校学生会表彰",
+                            "text": "负责东南大学微信公众号，抖音等的运营工作"
+                        }
+                    }
+
+                },
+                {
+                    "dates": {
+                        "start": "05/20/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Officer** – Liuchao Pine Organization",
+                            "info": "Southeast University Official Weibo",
+                            "text": "Responsible for the operation of Southeast University's official Weibo account."
+                        },
+                        "es": {
+                            "title": "**Oficial** – Organización Liuchao Pine",
+                            "info": "Weibo Oficial de la Universidad del Sureste",
+                            "text": "Encargado de la operación de la cuenta oficial de Weibo de la Universidad del Sureste."
+                        },
+                        "fr": {
+                            "title": "**Officier** – Organisation Liuchao Pine",
+                            "info": "Weibo Officiel de l'Université du Sud-Est",
+                            "text": "Responsable de l'opération du compte Weibo officiel de l'Université du Sud-Est."
+                        },
+                        "ko": {
+                            "title": "**간사** – Liuchao Pine 조직",
+                            "info": "동남대학교 공식 웨이보",
+                            "text": "동남대학교 공식 웨이보 계정의 운영을 담당했습니다."
+                        },
+                        "zh": {
+                            "title": "**干事** – 六朝松组织",
+                            "info": "东南大学官方微博",
+                            "text": "负责东南大学官方微博的运营工作"
+                        }
+                    }
+
+                },
+                {
+                    "dates": {
+                        "start": "09/11/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Outstanding Editor** – Southeast University",
+                            "info": "Southeast University Psychological Drama Production",
+                            "text": "Responsible for the editing and filming of Southeast University's psychological dramas."
+                        },
+                        "es": {
+                            "title": "**Editor Destacado** – Universidad del Sureste",
+                            "info": "Producción de Dramas Psicológicos de la Universidad del Sureste",
+                            "text": "Encargado de la edición y filmación de los dramas psicológicos de la Universidad del Sureste."
+                        },
+                        "fr": {
+                            "title": "**Monteur Exceptionnel** – Université du Sud-Est",
+                            "info": "Production de Drames Psychologiques de l'Université du Sud-Est",
+                            "text": "Responsable du montage et du tournage des drames psychologiques de l'Université du Sud-Est."
+                        },
+                        "ko": {
+                            "title": "**우수 편집자** – 동남대학교",
+                            "info": "동남대학교 심리극 제작",
+                            "text": "동남대학교 심리극의 편집 및 촬영 작업을 담당했습니다."
+                        },
+                        "zh": {
+                            "title": "**优秀剪辑师** – 东南大学",
+                            "info": "东南大学心理剧制作",
+                            "text": "负责东南大学心理剧的剪辑和拍摄工作"
+                        }
+                    }
+
+                },
+                {
+                    "dates": {
+                        "start": "11/25/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Project Leader** – SRTP Research Project",
+                            "info": "Major University-Level Scientific Research Innovation Training Project",
+                            "text": "As the project leader, developed a model to detect Alzheimer's Disease using acoustic features from speech."
+                        },
+                        "es": {
+                            "title": "**Líder del Proyecto** – Proyecto de Investigación SRTP",
+                            "info": "Proyecto Mayor de Innovación en Investigación Científica a Nivel Universitario",
+                            "text": "Como líder del proyecto, desarrolló un modelo para detectar la enfermedad de Alzheimer utilizando características acústicas del habla."
+                        },
+                        "fr": {
+                            "title": "**Chef de Projet** – Projet de Recherche SRTP",
+                            "info": "Projet Majeur d'Innovation en Recherche Scientifique au Niveau Universitaire",
+                            "text": "En tant que chef de projet, a développé un modèle pour détecter la maladie d'Alzheimer en utilisant des caractéristiques acoustiques de la parole."
+                        },
+                        "ko": {
+                            "title": "**프로젝트 리더** – SRTP 연구 프로젝트",
+                            "info": "대학 수준 주요 과학 연구 혁신 훈련 프로젝트",
+                            "text": "프로젝트 리더로서 음성의 음향 특징을 사용하여 알츠하이머병을 탐지하는 모델을 개발했습니다."
+                        },
+                        "zh": {
+                            "title": "**负责人** – SRTP科研项目",
+                            "info": "校级重大科研创新训练项目",
+                            "text": "作为负责人构建一个使用声学特征进行语音识别的AD识别模型"
+                        }
+                    }
+
+                },
+                {
+                    "dates": {
+                        "start": "09/05/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Inventor** – Patent",
+                            "info": "Dustproof Welding Mechanism for Chip Processing",
+                            "text": "Inventor of the patent for a dustproof welding mechanism used in chip processing."
+                        },
+                        "es": {
+                            "title": "**Inventor** – Patente",
+                            "info": "Mecanismo de Soldadura a Prueba de Polvo para el Procesamiento de Chips",
+                            "text": "Inventor de la patente para un mecanismo de soldadura a prueba de polvo utilizado en el procesamiento de chips."
+                        },
+                        "fr": {
+                            "title": "**Inventeur** – Brevet",
+                            "info": "Mécanisme de Soudage Anti-Poussière pour le Traitement des Puces",
+                            "text": "Inventeur du brevet pour un mécanisme de soudage anti-poussière utilisé dans le traitement des puces."
+                        },
+                        "ko": {
+                            "title": "**발명가** – 특허",
+                            "info": "칩 가공용 방진 용접 기구",
+                            "text": "칩 가공용 방진 용접 기구 특허의 발명가입니다."
+                        },
+                        "zh": {
+                            "title": "**发明人** – 专利",
+                            "info": "防尘式芯片加工用焊接机构",
+                            "text": "作为专利-防尘式芯片加工用焊接机构的发明人"
+                        }
+                    }
+
+                },
+                {
+                    "dates": {
+                        "start": "09/25/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**DAML Paper** – Accepted",
+                            "info": "Deep Learning Approaches for Early Detection and Classification of Alzheimer's Disease",
+                            "text": "Deep learning methods for early detection and classification of Alzheimer's disease."
+                        },
+                        "es": {
+                            "title": "**Artículo DAML** – Aceptado",
+                            "info": "Enfoques de Aprendizaje Profundo para la Detección Temprana y Clasificación de la Enfermedad de Alzheimer",
+                            "text": "Métodos de aprendizaje profundo para la detección temprana y clasificación de la enfermedad de Alzheimer."
+                        },
+                        "fr": {
+                            "title": "**Article DAML** – Accepté",
+                            "info": "Approches d'Apprentissage Profond pour la Détection Précoce et la Classification de la Maladie d'Alzheimer",
+                            "text": "Méthodes d'apprentissage profond pour la détection précoce et la classification de la maladie d'Alzheimer."
+                        },
+                        "ko": {
+                            "title": "**DAML 논문** – 채택됨",
+                            "info": "알츠하이머병의 조기 탐지 및 분류를 위한 딥러닝 접근법",
+                            "text": "알츠하이머병의 조기 탐지 및 분류를 위한 딥러닝 방법."
+                        },
+                        "zh": {
+                            "title": "**DAML论文** – 录用",
+                            "info": "Deep Learning Approaches for Early Detection and Classification of Alzheimer's Disease",
+                            "text": "深度学习方法用于早期检测和分类阿尔茨海默病"
+                        }
+                    }
+
+                },
+                {
+                    "dates": {
+                        "start": "11/05/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Project Leader** – Internet+",
+                            "info": "China International College Students' Internet+ Innovation and Entrepreneurship Competition",
+                            "text": "As a core team member, won the National Gold Award by conducting web data scraping, cleaning, and analysis to build customer profiles, uncover market trends, and provide data support and decision-making basis for new product development and market strategy formulation."
+                        },
+                        "es": {
+                            "title": "**Líder del Proyecto** – Internet+",
+                            "info": "Concurso Internacional de Innovación y Emprendimiento Universitario \"Internet+\" de China",
+                            "text": "Como miembro clave del equipo, ganó el Premio de Oro Nacional al realizar scraping, limpieza y análisis de datos web para construir perfiles de clientes, descubrir tendencias del mercado y proporcionar apoyo de datos y bases para la toma de decisiones en el desarrollo de nuevos productos y la formulación de estrategias de mercado."
+                        },
+                        "fr": {
+                            "title": "**Chef de Projet** – Internet+",
+                            "info": "Concours International d'Innovation et d'Entrepreneuriat des Étudiants Universitaires \"Internet+\" de Chine",
+                            "text": "En tant que membre clé de l'équipe, a remporté le Prix d'Or National en effectuant le scraping, le nettoyage et l'analyse de données web pour construire des profils clients, découvrir les tendances du marché et fournir un soutien de données et une base de prise de décision pour le développement de nouveaux produits et la formulation de stratégies de marché."
+                        },
+                        "ko": {
+                            "title": "**프로젝트 리더** – 인터넷+",
+                            "info": "중국 국제 \"인터넷+\" 대학생 혁신 창업 대회",
+                            "text": "핵심 팀원으로서 전국 금상을 수상하였으며, 웹 데이터 스크래핑, 정제, 분석을 통해 고객 프로필을 구축하고 시장 트렌드를 발굴하여 신제품 개발 및 시장 전략 수립에 데이터 지원과 의사결정 기반을 제공했습니다."
+                        },
+                        "zh": {
+                            "title": "**负责人** – 互联网+",
+                            "info": "中国国际“互联网+”大学生创新创业大赛",
+                            "text": "作为核心团队成员获得全国金奖，通过网页数据抓取、清洗、分析，构建客户画像、挖掘市场热点，为新产品研发和市场策略制定提供数据支持和决策依据"
+                        }
+                    }
+
                 }
             ]
         }
