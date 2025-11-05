@@ -226,6 +226,43 @@
 
 
                 },
+              {
+                "dates": {
+                  "start": "09/20/2022",
+                  "end": "11/20/2024"
+                },
+                "links": [],
+                "locales": {
+                  "en": {
+                    "title": "**Technical Work**",
+                    "info": "Campus Broadcasting Station",
+                    "text": "Responsible for technical operations at the campus broadcasting station, including live streaming, audio editing, and managing background music for campus activities."
+                  },
+                  "es": {
+                    "title": "**Trabajo Técnico**",
+                    "info": "Estación de Radiodifusión del Campus",
+                    "text": "Responsable de las operaciones técnicas en la estación de radiodifusión del campus, incluyendo transmisiones en vivo, edición de audio y gestión de la música de fondo para actividades del campus."
+                  },
+                  "fr": {
+                    "title": "**Travail Technique**",
+                    "info": "Station de Radio du Campus",
+                    "text": "Responsable des opérations techniques de la station de radio du campus, y compris la diffusion en direct, le montage audio et la gestion de la musique de fond pour les activités du campus."
+                  },
+                  "ko": {
+                    "title": "**기술 업무**",
+                    "info": "교내 방송국",
+                    "text": "교내 방송국에서 기술 업무를 담당하였으며, 생방송, 오디오 편집, 학교 행사 음악 관리 등의 업무를 수행했습니다."
+                  },
+                  "zh": {
+                    "title": "**技术**",
+                    "info": "广播台",
+                    "text": "负责广播台技术工作，如直播、剪辑音频、跑操音乐等。"
+                  }
+                }
+
+
+
+              },
                 {
                     "dates": {
                         "start": "11/05/2022",
@@ -265,41 +302,6 @@
                 },
                 {
                     "dates": {
-                        "start": "05/20/2023",
-                        "end": null
-                    },
-                    "links": [],
-                    "locales": {
-                        "en": {
-                            "title": "**Outstanding Volunteer** – National College Student Energy-Saving and Emission-Reduction Social Practice and Technology Competition",
-                            "info": "Volunteer Activity",
-                            "text": "Awarded the title of Outstanding Volunteer for exceptional performance as a volunteer in the National College Student Energy-Saving and Emission-Reduction Social Practice and Technology Competition."
-                        },
-                        "es": {
-                            "title": "**Voluntario Destacado** – Competencia Nacional de Práctica Social y Tecnología para el Ahorro de Energía y Reducción de Emisiones de Estudiantes Universitarios",
-                            "info": "Actividad de Voluntariado",
-                            "text": "Galardonado con el título de Voluntario Destacado por su desempeño excepcional como voluntario en la Competencia Nacional de Práctica Social y Tecnología para el Ahorro de Energía y Reducción de Emisiones de Estudiantes Universitarios."
-                        },
-                        "fr": {
-                            "title": "**Bénévole Exceptionnel** – Compétition Nationale de Pratique Sociale et Technologique pour l'Économie d'Énergie et la Réduction des Émissions des Étudiants Universitaires",
-                            "info": "Activité de Bénévolat",
-                            "text": "Décerné le titre de Bénévole Exceptionnel pour sa performance exceptionnelle en tant que bénévole dans la Compétition Nationale de Pratique Sociale et Technologique pour l'Économie d'Énergie et la Réduction des Émissions des Étudiants Universitaires."
-                        },
-                        "ko": {
-                            "title": "**우수 자원봉사자** – 전국 대학생 에너지 절약 및 배출 감소 사회 실천 및 기술 경진대회",
-                            "info": "자원봉사 활동",
-                            "text": "전국 대학생 에너지 절약 및 배출 감소 사회 실천 및 기술 경진대회에서 자원봉사자로서 뛰어난 활약을 펼쳐 우수 자원봉사자 칭호를 수여받았습니다."
-                        },
-                        "zh": {
-                            "title": "**优秀志愿者** – 全国大学生节能减排社会实践与科技竞赛",
-                            "info": "志愿活动",
-                            "text": "在全国大学生节能减排社会实践与科技竞赛中，作为志愿者表现出色，荣获优秀志愿者称号。"
-                        }
-                    }
-
-                },
-                {
-                    "dates": {
                         "start": "08/15/2023",
                         "end": null
                     },
@@ -308,27 +310,27 @@
                     ],
                     "locales": {
                         "en": {
-                            "title": "**Outstanding Volunteer** – School of Cybersecurity Student Union",
+                            "title": "**Officer** – School of Cybersecurity Student Union",
                             "info": "Recognition by the School Student Union",
                             "text": "Responsible for managing the WeChat public account of the School of Cybersecurity, including content creation and layout design."
                         },
                         "es": {
-                            "title": "**Voluntario Destacado** – Unión Estudiantil de la Escuela de Ciberseguridad",
+                            "title": "**Oficial** – Unión Estudiantil de la Escuela de Ciberseguridad",
                             "info": "Reconocimiento por la Unión Estudiantil de la Escuela",
                             "text": "Encargado de la gestión del cuenta oficial de WeChat de la Escuela de Ciberseguridad, incluyendo la creación de contenido y el diseño de la presentación."
                         },
                         "fr": {
-                            "title": "**Bénévole Exceptionnel** – Syndicat Étudiant de l'École de Cybersécurité",
+                            "title": "**Officier** – Syndicat Étudiant de l'École de Cybersécurité",
                             "info": "Reconnaissance par le Syndicat Étudiant de l'École",
                             "text": "Responsable de la gestion du compte public WeChat de l'École de Cybersécurité, y compris la création de contenu et la conception de la mise en page."
                         },
                         "ko": {
-                            "title": "**우수 자원봉사자** – 사이버 보안 대학 학생회",
+                            "title": "**간사** – 사이버 보안 대학 학생회",
                             "info": "대학 학생회 표창",
                             "text": "사이버 보안 대학의 위챗 공식 계정 관리, 콘텐츠 작성 및 레이아웃 디자인을 담당했습니다."
                         },
                         "zh": {
-                            "title": "**优秀志愿者** – 网络空间安全学院学生会",
+                            "title": "**干事** – 网络空间安全学院学生会",
                             "info": "院学生会表彰",
                             "text": "负责网络空间安全学院微信公众号推送，排版等"
                         }
@@ -439,7 +441,7 @@
                             "text": "동남대학교 심리극의 편집 및 촬영 작업을 담당했습니다."
                         },
                         "zh": {
-                            "title": "**优秀剪辑师** – 东南大学",
+                            "title": "**剪辑师** ",
                             "info": "东南大学心理剧制作",
                             "text": "负责东南大学心理剧的剪辑和拍摄工作"
                         }
@@ -520,43 +522,7 @@
                     }
 
                 },
-                {
-                    "dates": {
-                        "start": "09/25/2023",
-                        "end": null
-                    },
-                    "links": [
-                        { "string": "more_info", "href": "" }
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "**DAML Paper** – Accepted",
-                            "info": "Deep Learning Approaches for Early Detection and Classification of Alzheimer's Disease",
-                            "text": "Deep learning methods for early detection and classification of Alzheimer's disease."
-                        },
-                        "es": {
-                            "title": "**Artículo DAML** – Aceptado",
-                            "info": "Enfoques de Aprendizaje Profundo para la Detección Temprana y Clasificación de la Enfermedad de Alzheimer",
-                            "text": "Métodos de aprendizaje profundo para la detección temprana y clasificación de la enfermedad de Alzheimer."
-                        },
-                        "fr": {
-                            "title": "**Article DAML** – Accepté",
-                            "info": "Approches d'Apprentissage Profond pour la Détection Précoce et la Classification de la Maladie d'Alzheimer",
-                            "text": "Méthodes d'apprentissage profond pour la détection précoce et la classification de la maladie d'Alzheimer."
-                        },
-                        "ko": {
-                            "title": "**DAML 논문** – 채택됨",
-                            "info": "알츠하이머병의 조기 탐지 및 분류를 위한 딥러닝 접근법",
-                            "text": "알츠하이머병의 조기 탐지 및 분류를 위한 딥러닝 방법."
-                        },
-                        "zh": {
-                            "title": "**DAML论文** – 录用",
-                            "info": "Deep Learning Approaches for Early Detection and Classification of Alzheimer's Disease",
-                            "text": "深度学习方法用于早期检测和分类阿尔茨海默病"
-                        }
-                    }
 
-                },
                 {
                     "dates": {
                         "start": "11/05/2023",

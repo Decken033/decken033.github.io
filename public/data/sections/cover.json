@@ -101,22 +101,23 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {
-                            "text": "<p>I am a computer science undergraduate proficient in <b>C++, Java, and Python</b>, with extensive experience in multi-project development, as well as familiarity with both frontend and backend web development and database management.</p><p>This diverse background allows me to flexibly adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b></p>"
-                        },
-                        "es": {
-                            "text": "<p>Soy un estudiante universitario de ciencias de la computación, competente en <b>C++, Java y Python</b>, con amplia experiencia en desarrollo de múltiples proyectos, además de familiaridad con el desarrollo web frontend y backend y la gestión de bases de datos.</p><p>Este historial diverso me permite adaptarme con flexibilidad a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"
-                        },
-                        "fr": {
-                            "text": "<p>Je suis un étudiant en informatique compétent en <b>C++, Java et Python</b>, avec une vaste expérience dans le développement de multiples projets, ainsi qu’une familiarité avec le développement web frontend et backend et la gestion de bases de données.</p><p>Ce parcours diversifié me permet de m’adapter avec souplesse à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"
-                        },
-                        "ko": {
-                            "text": "<p>저는 컴퓨터 공학 전공 학부생으로, <b>C++, Java, Python</b>에 능숙하며, 다수의 프로젝트 개발 경험이 풍부하고, 프론트엔드 및 백엔드 웹 개발과 데이터베이스 관리에도 익숙합니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"
-                        },
-                        "zh": {
-                            "text": "<p>我是一名计算机专业本科生，擅长<b>C++、Java和Python</b>，并具备丰富的多项目开发经验，同时熟悉前后端网页开发和数据库管理。</p><p>这种多元化的背景让我能够灵活适应各种项目需求。</p><p>我期待与<b>您合作！</b></p>"
-                        }
+                      "en": {
+                        "text": "<p>I am an undergraduate majoring in <b>Software Engineering</b>, proficient in <b>C++, Java, and Python</b>, with extensive experience in multi-project development, and familiar with both frontend and backend web development as well as database management.</p><p>This diverse background enables me to adapt flexibly to various project needs.</p><p>I look forward to <b>working with you!</b></p>"
+                      },
+                      "es": {
+                        "text": "<p>Soy un estudiante universitario de <b>Ingeniería de Software</b>, competente en <b>C++, Java y Python</b>, con amplia experiencia en desarrollo de múltiples proyectos, además de familiaridad con el desarrollo web frontend y backend, así como la gestión de bases de datos.</p><p>Este historial diverso me permite adaptarme con flexibilidad a una amplia gama de necesidades de proyectos.</p><p>¡Espero con entusiasmo <b>trabajar contigo!</b></p>"
+                      },
+                      "fr": {
+                        "text": "<p>Je suis un étudiant en <b>génie logiciel</b>, compétent en <b>C++, Java et Python</b>, avec une riche expérience dans le développement de multiples projets, ainsi qu’une bonne maîtrise du développement web frontend et backend et de la gestion des bases de données.</p><p>Ce parcours diversifié me permet de m’adapter avec flexibilité à une large gamme de besoins de projets.</p><p>J’ai hâte de <b>travailler avec vous&nbsp;!</b></p>"
+                      },
+                      "ko": {
+                        "text": "<p>저는 <b>소프트웨어 공학</b> 전공 학부생으로, <b>C++, Java, Python</b>에 능숙하며 다수의 프로젝트 개발 경험이 풍부하고, 프론트엔드 및 백엔드 웹 개발과 데이터베이스 관리에도 익숙합니다.</p><p>이 다양한 배경 덕분에 여러 프로젝트 요구에 유연하게 적응할 수 있습니다.</p><p><b>함께 일하기를 기대합니다!</b></p>"
+                      },
+                      "zh": {
+                        "text": "<p>我是一名<b>软件工程专业本科生</b>，擅长<b>C++、Java和Python</b>，并具备丰富的多项目开发经验，同时熟悉前后端网页开发和数据库管理。</p><p>这种多元化的背景让我能够灵活适应各种项目需求。</p><p>我期待与<b>您合作！</b></p>"
+                      }
                     }
+
 
 
                 }

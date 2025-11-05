@@ -77,7 +77,52 @@
                             "tags": []
                         }
                     }
+                },
+                {
+                "icon": {
+                  "img": "images/pictures/place-10.png",
+                  "fa": "",
+                  "faColors": {"bg": null, "fill": null}
+                },
+                "dates": {
+                  "start": "03/01/2025",
+                  "end": "06/01/2025"
+                },
+                "locales": {
+                  "en": {
+                    "title": "**Exchange Student**",
+                    "info": "UCLA",
+                    "text": "Participated in an exchange program at UCLA, engaging in academic and cultural exchange experiences.",
+                    "tags": []
+                  },
+                  "es": {
+                    "title": "**Estudiante de Intercambio**",
+                    "info": "UCLA",
+                    "text": "Participé en un programa de intercambio en UCLA, involucrándome en experiencias académicas y culturales.",
+                    "tags": []
+                  },
+                  "fr": {
+                    "title": "**Étudiant d'Échange**",
+                    "info": "UCLA",
+                    "text": "A participé à un programme d'échange à l'UCLA, prenant part à des expériences académiques et culturelles.",
+                    "tags": []
+                  },
+                  "ko": {
+                    "title": "**교환학생**",
+                    "info": "UCLA",
+                    "text": "UCLA에서 교환학생 프로그램에 참여하여 학문적 및 문화적 교류를 경험했습니다.",
+                    "tags": []
+                  },
+                  "zh": {
+                    "title": "交换生",
+                    "info": "UCLA",
+                    "text": "在UCLA交换，参与学术与文化交流项目。",
+                    "tags": []
+                  }
                 }
+
+                }
+
             ]
         }
     ]

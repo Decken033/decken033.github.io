@@ -37,176 +37,96 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-7.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "03/01/2016",
-                        "end": "06/01/2018"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Backend** Developer",
-                            "info": "Sapphire Studio",
-                            "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-                            "tags": ["PHP", "MySQL", "Laravel"]
-                        },
-                        "es": {
-                            "title": "Desarrollador **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve sistemas backend escalables para varios clientes, optimizando el rendimiento de la base de datos e implementando APIs RESTful para mejorar la funcionalidad de la aplicación.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Développeur **Backend**",
-                            "info": "Sapphire Studio",
-                            "text": "Développé et maintenu des systèmes backend évolutifs pour divers clients, optimisant les performances de la base de données et implémentant des APIs RESTful pour améliorer la fonctionnalité de l'application.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**백엔드** 개발자",
-                            "info": "사파이어 스튜디오",
-                            "text": "여러 클라이언트를 위해 확장 가능한 백엔드 시스템을 개발하고 유지 관리하며, 데이터베이스 성능을 최적화하고 애플리케이션 기능을 개선하기 위해 RESTful API를 구현했습니다.",
-                            "tags": null
-                        },
-                        "zh": {
-                            "title": "**后端**开发者",
-                            "info": "蓝宝石工作室（Sapphire Studio）",
-                            "text": "为多个客户开发和维护可扩展的后端系统，优化数据库性能并实施RESTful API以提升应用程序功能。",
-                            "tags": ["PHP", "MySQL", "Laravel"]
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/pictures/place-3.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "06/01/2018",
-                        "end": "12/01/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Full-Stack** Engineer",
-                            "info": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "Participé en la mejora del sitio web de Coursera al implementar nuevas funcionalidades y optimizar la experiencia del usuario, utilizando tecnologías de frontend y backend para asegurar un funcionamiento sin problemas.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Ingénieur **Full-Stack**",
-                            "info": "Coursera",
-                            "text": "J'ai contribué à l'amélioration du site Web de Coursera en ajoutant de nouvelles fonctionnalités et en optimisant l'expérience utilisateur, en utilisant des technologies frontend et backend pour garantir un fonctionnement fluide.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**풀스택** 엔지니어",
-                            "info": "코세라",
-                            "text": "Coursera 웹사이트를 개선하기 위해 새로운 기능을 추가하고 사용자 경험을 최적화했습니다. 원활한 기능을 보장하기 위해 프론트엔드와 백엔드 기술을 모두 활용했습니다.",
-                            "tags": null
-                        },
-                        "zh": {
-                            "title": "**全栈**工程师",
-                            "info": "Coursera",
-                            "text": "通过实施新功能和改进用户体验，参与增强Coursera网站，使用前端和后端技术确保无缝功能。",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": "images/pictures/place-1.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "dates": {
-                        "start": "12/01/2020",
-                        "end": "11/01/2022"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "**Backend** Engineer",
-                            "info": "Adobe Inc.",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "tags": ["Java", "AWS", "REST", "Docker"]
-                        },
-                        "es": {
-                            "title": "Ingeniero **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia en el procesamiento de datos mediante funciones en la nube.",
-                            "tags": null
-                        },
-                        "fr": {
-                            "title": "Ingénieur **Backend**",
-                            "info": "Adobe Inc.",
-                            "text": "J'ai contribué au développement de systèmes backend solides pour Adobe Creative Cloud, intégrant des services tiers et améliorant l'efficacité du traitement des données grâce aux fonctions cloud.",
-                            "tags": null
-                        },
-                        "ko": {
-                            "title": "**백엔드** 엔지니어",
-                            "info": "어도비 주식회사",
-                            "text": "Adobe Creative Cloud를 위한 강력한 백엔드 시스템 개발에 기여하였으며, 타사 서비스 통합과 클라우드 기능을 통해 데이터 처리 효율성을 향상시켰습니다.",
-                            "tags": null
-                        },
-                        "zh": {
-                            "title": "**后端**工程师",
-                            "info": "Adobe公司",
-                            "text": "为Adobe Creative Cloud开发强大的后端系统做出贡献，集成第三方服务并通过云功能提高数据处理效率。",
-                            "tags": ["Java", "AWS", "REST", "Docker"]
-                        }
-                    }
-                },
-                {
-                    "icon": {
                         "img": null,
                         "fa": "fa-brands fa-apple",
                         "faColors": {"bg": "#111", "fill": "#EEE"}
                     },
                     "dates": {
-                        "start": "12/01/2022",
-                        "end": "now"
+                        "start": "06/01/2025",
+                        "end": "09/01/2025"
                     },
                     "locales": {
-                        "en": {
-                            "title": "**Senior Backend** Developer",
-                            "info": "Apple Inc.",
-                            "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
-                        },
-                        "es": {
-                            "title": "Desarrollador **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
-                        },
-                        "fr": {
-                            "title": "Développeur **Backend Senior**",
-                            "info": "Apple Inc.",
-                            "text": "<p>Dirigeant une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services d'Apple, en se concentrant sur:</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous assurons que l'infrastructure backend d'Apple reste robuste et efficace.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
-                        },
-                        "ko": {
-                            "title": "**수석 백엔드** 개발자",
-                            "info": "애플 주식회사",
-                            "text": "<p>Apple 서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>우리는 함께 Apple의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
-                        },
-                        "zh": {
-                            "title": "**高级后端**开发者",
-                            "info": "苹果公司（Apple Inc.）",
-                            "text": "<p>带领开发团队设计和实现苹果服务的后端解决方案，重点关注：</p> <ul><li>安全性</li><li>可扩展性，以处理全球数百万用户</li><li>开发RESTful API</li><li>使用PostgreSQL优化数据库性能</li><li>使用Swift、PHP和GraphQL构建服务</li></ul> <p class='mt-3'>我们共同确保苹果的后端基础设施保持强大和高效。</p>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
-                        }
+                      "en": {
+                        "title": "**Backend** Developer",
+                        "info": "Legend Tech",
+                        "text": "<p>Leading a development team to design and implement backend solutions for our services, focusing on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure the backend infrastructure of Legend Tech remains robust and efficient.</p>",
+                        "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                      },
+                      "es": {
+                        "title": "Desarrollador **Backend**",
+                        "info": "Legend Tech",
+                        "text": "<p>Liderando un equipo de desarrollo para diseñar e implementar soluciones backend para nuestros servicios, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construir servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Legend Tech se mantenga sólida y eficiente.</p>",
+                        "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                      },
+                      "fr": {
+                        "title": "Développeur **Backend**",
+                        "info": "Legend Tech",
+                        "text": "<p>Dirigeant une équipe de développement pour concevoir et mettre en œuvre des solutions backend pour nos services, en se concentrant sur :</p> <ul><li>Sécurité</li><li>Scalabilité pour gérer des millions d'utilisateurs dans le monde</li><li>Développement d'APIs RESTful</li><li>Optimisation des performances des bases de données avec PostgreSQL</li><li>Création de services avec Swift, PHP et GraphQL</li></ul> <p class='mt-3'>Ensemble, nous veillons à ce que l'infrastructure backend de Legend Tech reste robuste et efficace.</p>",
+                        "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                      },
+                      "ko": {
+                        "title": "**백엔드** 개발자",
+                        "info": "레전드 테크",
+                        "text": "<p>서비스의 백엔드 솔루션을 설계하고 구현하는 개발 팀을 이끌며, 다음에 중점을 둡니다:</p> <ul><li>보안</li><li>전 세계 수백만 명의 사용자를 처리할 수 있는 확장성</li><li>RESTful API 개발</li><li>PostgreSQL로 데이터베이스 성능 최적화</li><li>Swift, PHP, GraphQL로 서비스 구축</li></ul> <p class='mt-3'>함께 레전드 테크의 백엔드 인프라가 견고하고 효율적으로 유지되도록 보장합니다.</p>",
+                        "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                      },
+                      "zh": {
+                        "title": "**后端**开发者",
+                        "info": "金智科技",
+                        "text": "<p>带领开发团队设计和实现服务的后端解决方案，重点关注：</p> <ul><li>安全性</li><li>可扩展性，以处理全球数百万用户</li><li>开发RESTful API</li><li>使用PostgreSQL优化数据库性能</li><li>使用Swift、PHP和GraphQL构建服务</li></ul> <p class='mt-3'>我们共同确保的后端基础设施保持强大和高效。</p>",
+                        "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                      }
                     }
+
+
+
+                },
+              {
+                "icon": {
+                  "img": null,
+                  "fa": "fa-brands fa-apple",
+                  "faColors": {"bg": "#111", "fill": "#EEE"}
+                },
+                "dates": {
+                  "start": "10/01/2025",
+                  "end": "now"
+                },
+                "locales": {
+                  "en": {
+                    "title": "**Agent** Developer",
+                    "info": "Deloitte",
+                    "text": "<p>Responsible for the end-to-end design and development of intelligent Agent systems based on clients’ business needs and scenarios. This includes requirement analysis, functional architecture design, interaction flow planning, core algorithm implementation, system integration, and performance optimization — ensuring that the developed Agents operate efficiently and reliably to meet client objectives.</p>",
+                    "tags": ["AI Agent", "System Design", "Architecture", "Algorithm", "Integration"]
+                  },
+                  "es": {
+                    "title": "Desarrollador de **Agentes**",
+                    "info": "Deloitte",
+                    "text": "<p>Responsable del diseño y desarrollo integral de sistemas de Agentes inteligentes basados en las necesidades y escenarios de negocio de los clientes. Esto incluye análisis de requisitos, diseño de arquitectura funcional, planificación de flujos de interacción, implementación de algoritmos principales, integración de sistemas y optimización del rendimiento, garantizando que los Agentes desarrollados funcionen de manera eficiente y estable para cumplir los objetivos del cliente.</p>",
+                    "tags": ["Agente Inteligente", "Diseño de Sistemas", "Arquitectura", "Algoritmo", "Integración"]
+                  },
+                  "fr": {
+                    "title": "Développeur d’**Agents**",
+                    "info": "Deloitte",
+                    "text": "<p>Responsable de la conception et du développement de bout en bout de systèmes d’Agents intelligents basés sur les besoins et les scénarios commerciaux des clients. Les tâches incluent l’analyse des besoins, la conception de l’architecture fonctionnelle, la planification des flux d’interaction, la mise en œuvre d’algorithmes principaux, l’intégration du système et l’optimisation des performances, garantissant que les Agents développés fonctionnent efficacement et de manière fiable pour atteindre les objectifs des clients.</p>",
+                    "tags": ["Agent Intelligent", "Conception Système", "Architecture", "Algorithme", "Intégration"]
+                  },
+                  "ko": {
+                    "title": "**에이전트** 개발자",
+                    "info": "딜로이트",
+                    "text": "<p>고객의 비즈니스 요구와 시나리오 분석을 기반으로 지능형 에이전트 시스템의 전체 설계와 엔드투엔드 개발을 담당했습니다. 주요 업무에는 요구사항 분석, 기능 아키텍처 설계, 상호작용 흐름 기획, 핵심 알고리즘 구현, 시스템 통합 및 성능 최적화가 포함되며, 개발된 에이전트가 효율적이고 안정적으로 고객의 목표를 달성하도록 보장합니다.</p>",
+                    "tags": ["AI 에이전트", "시스템 설계", "아키텍처", "알고리즘", "통합"]
+                  },
+                  "zh": {
+                    "title": "**Agent**开发",
+                    "info": "德勤",
+                    "text": "<p>根据客户的业务需求与场景分析，负责智能Agent系统的整体方案设计与端到端开发工作。内容包括需求调研、功能架构设计、交互流程规划、核心算法实现、系统集成与性能优化等环节，确保所开发的Agent能够高效、稳定地满足客户的使用目标。</p>",
+                    "tags": ["AI Agent", "系统设计", "架构", "算法", "集成"]
+                  }
                 }
+
+
+
+              }
             ]
         }
     ]
