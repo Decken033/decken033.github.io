@@ -138,7 +138,7 @@
                 {
                     "value": "Anita Bath",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": ""}
                     ],
                     "icon": {
                         "img": "images/pictures/person-1.png",
@@ -147,15 +147,15 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "CEO at <b>SalesForce</b>",
+                            "info": "CEO at <b>A</b>",
                             "text": "Working with Decken was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
                         },
                         "es": {
-                            "info": "CEO en <b>SalesForce</b>",
+                            "info": "CEO en <b>A</b>",
                             "text": "Trabajar con Decken fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
                         },
                         "fr": {
-                            "info": "PDG de <b>SalesForce</b>",
+                            "info": "PDG de <b>A</b>",
                             "text": "Travailler avec Decken a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
                         },
                         "ko": {
@@ -163,7 +163,7 @@
                             "text": "Decken와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
                         },
                         "zh": {
-                            "info": "<b>SalesForce</b>首席执行官",
+                            "info": "<b>A</b>首席执行官",
                             "text": "与Decken合作是一次变革性的体验。他的编程技能和奉献精神不仅提升了我们的项目，还激励了整个团队。"
                         }
                     }
@@ -171,7 +171,7 @@
                 {
                     "value": "Lou Natic",
                     "links": [
-                        {"href": "https://github.com"}
+                        {"href": ""}
                     ],
                     "icon": {
                         "img": "images/pictures/person-3.png",
@@ -180,23 +180,23 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Lead Developer at <b>GitHub</b>",
+                            "info": "Lead Developer at <b>B</b>",
                             "text": "Having Decken on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
                         },
                         "es": {
-                            "info": "Desarrollador Principal en <b>GitHub </b>",
+                            "info": "Desarrollador Principal en <b>B </b>",
                             "text": "Tener a Decken en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
                         },
                         "fr": {
-                            "info": "Développeur Principal chez <b>GitHub </b>",
+                            "info": "Développeur Principal chez <b>B </b>",
                             "text": "Avoir Decken dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
                         },
                         "ko": {
-                            "info": "<b>GitHub</b> 수석 개발자",
+                            "info": "<b>B</b> 수석 개발자",
                             "text": "우리 팀에 Decken가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
                         },
                         "zh": {
-                            "info": "<b>GitHub</b>首席开发者",
+                            "info": "<b>B</b>首席开发者",
                             "text": "团队中有Decken是一个宝贵的财富。他深厚的编程洞察力和指导不仅提升了我们的项目，还赋予我们在面对每个挑战时充满信心和创造力。"
                         }
                     }
@@ -213,15 +213,15 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Managing Director at <b>Dingga</b>",
+                            "info": "Managing Director at <b>C</b>",
                             "text": "Collaborating with Decken was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
                         },
                         "es": {
-                            "info": "Directora General en <b>Dingga</b>",
+                            "info": "Directora General en <b>C</b>",
                             "text": "Colaborar con Decken fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
                         },
                         "fr": {
-                            "info": "Directrice Générale chez <b>Dingga</b>",
+                            "info": "Directrice Générale chez <b>C</b>",
                             "text": "Collaborer avec Decken a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
                         },
                         "ko": {
@@ -229,7 +229,7 @@
                             "text": "Decken와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
                         },
                         "zh": {
-                            "info": "<b>Dingga</b>董事总经理",
+                            "info": "<b>C</b>董事总经理",
                             "text": "与Decken合作彻底改变了我们的开发流程。他的专业知识和解决问题的能力对我们的成功至关重要。"
                         }
                     }
@@ -237,7 +237,7 @@
                 {
                     "value": "Chris P. Bacon",
                     "links": [
-                        {"href": "https://dribbble.com"}
+                        {"href": ""}
                     ],
                     "icon": {
                         "img": "images/pictures/person-4.png",
@@ -246,23 +246,23 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Creative Director at <b>Dribbble</b>",
+                            "info": "Creative Director at <b>D</b>",
                             "text": "Decken's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
                         },
                         "es": {
-                            "info": "Directora Creativa en <b>Dribbble</b>",
+                            "info": "Directora Creativa en <b>D</b>",
                             "text": "La atención al detalle de Decken y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
                         },
                         "fr": {
-                            "info": "Directrice Créative chez <b>Dribbble</b>",
+                            "info": "Directrice Créative chez <b>D</b>",
                             "text": "L'attention aux détails de Decken et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
                         },
                         "ko": {
-                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
+                            "info": "<b>D</b> 크리에이티브 디렉터",
                             "text": "Decken의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
                         },
                         "zh": {
-                            "info": "<b>Dribbble</b>创意总监",
+                            "info": "<b>D</b>创意总监",
                             "text": "Decken对细节的关注和创新思维为我们的设计流程带来了全新的视角。他真正提升了我们团队的工作，并帮助我们取得了超出预期的成果。"
                         }
                     }
