@@ -44,105 +44,7 @@
                 "zh": { "title": "证书" }
             },
             "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-life-ring",
-                        "faColors": { "bg": "#326CE5", "fill": "#EEE" }
-                    },
-                    "dates": {
-                        "start": "12/01/2020",
-                        "end": null
-                    },
-                    "links": [
-                        { "string": "see_certification", "href": "https://www.linuxfoundation.org/" }
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "The **Linux Foundation**",
-                            "text": "Certified Kubernetes Administrator (CKA)"
-                        },
-                        "es": {
-                            "text": "Administrador Kubernetes Certificado (CKA)"
-                        },
-                        "fr": {
-                            "text": "Administrateur Kubernetes Certifié (CKA)"
-                        },
-                        "ko": {
-                            "text": "인증된 쿠버네티스 관리자 (CKA)"
-                        },
-                        "zh": {
-                            "title": "**Linux基金会**",
-                            "text": "认证Kubernetes管理员 (CKA)"
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-aws",
-                        "faColors": { "bg": "#FFD700", "fill": "#111" }
-                    },
-                    "dates": {
-                        "start": "05/05/2021",
-                        "end": null
-                    },
-                    "links": [
-                        { "string": "see_certification", "href": "https://www.aws.com/" }
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "**Amazon** Web Services",
-                            "text": "AWS Certified Solutions Architect – Associate"
-                        },
-                        "es": {
-                            "text": "Arquitecto de Soluciones Certificado de AWS – Asociado"
-                        },
-                        "fr": {
-                            "text": "Architecte de Solutions Certifié AWS – Associé"
-                        },
-                        "ko": {
-                            "text": "AWS 인증 솔루션 아키텍트 – 어소시에이트"
-                        },
-                        "zh": {
-                            "title": "**亚马逊**网络服务",
-                            "text": "AWS认证解决方案架构师 – 助理级"
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": { "bg": "#007396", "fill": "#EEE" }
-                    },
-                    "dates": {
-                        "start": "05/05/2022",
-                        "end": null
-                    },
-                    "links": [
-                        { "string": "see_certification", "href": "https://www.oracle.com/" }
-                    ],
-                    "locales": {
-                        "en": {
-                            "title": "**Oracle**",
-                            "text": "Certified Java Developer"
-                        },
-                        "es": {
-                            "text": "Desarrollador Java Certificado"
-                        },
-                        "fr": {
-                            "text": "Développeur Java Certifié"
-                        },
-                        "ko": {
-                            "text": "인증된 자바 개발자"
-                        },
-                        "zh": {
-                            "title": "**甲骨文**",
-                            "text": "认证Java开发者"
-                        }
-                    }
-                },
+
                 {
                     "icon": {
                         "img": null,
@@ -158,21 +60,21 @@
                     ],
                     "locales": {
                         "en": {
-                            "title": "**MongoDB** University",
-                            "text": "MongoDB Certified Developer"
+                            "title": "**1** ",
+                            "text": "111"
                         },
                         "es": {
-                            "text": "Desarrollador Certificado en MongoDB"
+                            "text": "111"
                         },
                         "fr": {
-                            "text": "Développeur Certifié MongoDB"
+                            "text": "111"
                         },
                         "ko": {
-                            "text": "몽고디비 인증 개발자"
+                            "text": "111"
                         },
                         "zh": {
-                            "title": "**MongoDB**大学",
-                            "text": "MongoDB认证开发者"
+                            "title": "**1**",
+                            "text": "111"
                         }
                     }
                 }
